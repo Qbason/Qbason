@@ -1,5 +1,5 @@
 ### Hi there 👋
-Welcome
+About me: 
 [jakubk.pl](https://jakubk.pl)
 
 <!--
