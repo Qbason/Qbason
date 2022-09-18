@@ -1,6 +1,6 @@
 ### Hi there 👋
 Welcome
-[Link text Here](https://jakubk.pl)
+[My Website](https://jakubk.pl)
 
 <!--
 **Qbason/Qbason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
